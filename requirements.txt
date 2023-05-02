@@ -1,4 +1,5 @@
 # Flask core and extensions
+setuptools==57.5.0
 Flask==1.0.2
 Flask-Admin==1.5.5
 Flask-Assets==0.12
